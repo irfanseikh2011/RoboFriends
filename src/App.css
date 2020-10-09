@@ -1,0 +1,8 @@
+h1 {
+    font-family: 'Lobster', cursive;
+    background: -webkit-linear-gradient(rgb(173, 187, 194), rgb(115, 196, 201));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
